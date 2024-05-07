@@ -9,7 +9,7 @@ $ pip install requests && pip install rich && pip install bs4
 
 $ pkg install git pull
 
-$ git clone 
+$ git clone https://github.com/abidexe/ABID-GREEN.git
 
 $ cd ABID-GREEN
 
